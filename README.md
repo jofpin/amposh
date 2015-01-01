@@ -5,6 +5,6 @@ Amazing posh style cdn
 
 -------------
 
-Copyright, 2014 by [José Pino](http://twitter.com/mrjopino)
+Copyright, 2014 by [Jose Pino](http://twitter.com/mrjopino)
 
 -------------
