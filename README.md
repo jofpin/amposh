@@ -1,7 +1,7 @@
 awepush
 =======
 
-Amazing posh style cdn
+Amazing posh style cdn (demo with awepush)
 
 -------------
 
